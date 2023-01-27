@@ -19,7 +19,7 @@ theme = "hugo-hero-theme"
     desktop = "images/logo.svg"
     desktop_height = "29px"
     desktop_width = "217px"
-    alt = "Hugo Hero"
+    alt = "Callindra"
 
   [params.homepage_meta_tags]
     meta_description = "Understanding human thought from videos"
