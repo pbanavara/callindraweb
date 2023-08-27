@@ -22,7 +22,7 @@ theme = "hugo-hero-theme"
     alt = "Callindra"
 
   [params.homepage_meta_tags]
-    meta_description = "Understanding human thought from videos"
+    meta_description = "An AI assistant to help achieve your dreams"
     meta_og_title = "Callindra"
     meta_og_type = "website"
     meta_og_url = "https://callindra.com"
